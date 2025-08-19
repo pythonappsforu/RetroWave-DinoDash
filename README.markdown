@@ -4,7 +4,7 @@ An Arduino remake of the Chrome Dino game with a pixelated T-Rex, touchless ultr
 
 ## Demo
 
-\[Insert YouTube Video Link Here\]
+[\[Insert YouTube Video Link Here\]](https://youtube.com/shorts/3_BB3LlaCXM)
 
 ## Features
 
